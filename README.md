@@ -30,3 +30,10 @@
 * 卡包部分尚未开发完成，部分功能待完善
 ## End
 * 如项目中对你有所帮助，希望大家点个star
+
+---
+
+在下方的按钮下载apk！
+---
+[![下载 APK](https://img.shields.io/badge/下载-APK-blue)](https://github.com/ofheikan/OneAccount/raw/main/account/release/account-release.apk)
+
